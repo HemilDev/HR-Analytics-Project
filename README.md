@@ -25,7 +25,6 @@ This project focuses on exploring key HR metrics and building an interactive das
 HR-Analytics-Project/
 ├── HR_Dataset.csv              
 ├── Hr_Analytics.pbix          
-├── Dashboard_Screenshot.png 
 └── README.md                   
 ```
 
